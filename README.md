@@ -10,8 +10,8 @@ A simple TicTacToe game created in Python. This game is made using Python in-bui
    ```
    git clone https://github.com/AnshulPareek/TicTacToe.git
    cd TicTacToe
-
-
+   ```
+   
 ## Usage
 
 Run the main Python script:
