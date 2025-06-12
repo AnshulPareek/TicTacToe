@@ -17,6 +17,8 @@ A simple TicTacToe game created in Python. This game is made using Python in-bui
 Run the main Python script:
 
       python TicTacToe.py
+- Just copy paste the code and boom you have a tictactoe game.
+
 
 ## How It Works
 Creates a Structure of an tictactoe with numbers indicating as positions.
